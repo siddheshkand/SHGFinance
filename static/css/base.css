@@ -1,0 +1,10 @@
+* {
+  border-radius: 0 !important;
+}
+.temp-width{
+  height: auto;
+  margin: 100px 0;
+}
+.circular-button{
+  border-radius: 50%!important;
+}
